@@ -30,7 +30,7 @@ export class SearchCourseComponent {
 
         if (response.length==0) {
 
-          alert("invalide employee code")
+          alert("invalid coursetitle")
 
          
 
